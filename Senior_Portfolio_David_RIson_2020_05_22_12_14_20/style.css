@@ -1,0 +1,12 @@
+html, body {
+  text-align : left;
+  background-color : white;
+  width : 80%;
+  color : blue;
+}
+h1 {
+  color: black;
+}
+canvas {
+  display: block;
+}
